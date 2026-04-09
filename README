@@ -1,0 +1,37 @@
+# 📊 Sales Analytics Dashboard
+
+## 📌 Overview
+This project analyzes sales data using SQL and Power BI to generate business insights.
+
+## 🛠 Tools Used
+- SQL
+- Power BI
+- Excel
+
+## 📈 Dashboard Features
+- Total Sales KPI
+- Total Profit KPI
+- Customer Count
+- Monthly Sales Trend
+- Profit by Category
+- Top Customers
+- Top Revenue Months
+
+## 🔍 Key Insights
+- Sales show seasonal patterns across months
+- Technology category generates highest profit
+- A few customers contribute majority of revenue
+
+## 📂 Files
+- Sales_Analytics_Dashboard.pbix
+- Orders.csv
+
+## 🚀 How to Use
+1. Download `.pbix` file
+2. Open in Power BI Desktop
+3. Explore dashboard
+
+---
+
+## 📸 Dashboard Preview
+(Add screenshot here later)
